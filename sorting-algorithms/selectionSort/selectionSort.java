@@ -5,7 +5,7 @@ class selectionSort{
 		int sizeofArr = arr.length;
 		int [] sortedArr = new int [sizeofArr];
 		sortedArr = selectionSort(arr, sizeofArr);
-		yazdir(sortedArr);
+		print(sortedArr);
 	}
 
 	static int [] selectionSort(int [] arr, int sizeofArr){
@@ -23,9 +23,8 @@ class selectionSort{
 		return arr;
 	}
 
-	static void yazdir (int [] arr){
+	static void print (int [] arr){
 		for (int a : arr)
 			System.out.print(" "+a);
-
 	}
 }
