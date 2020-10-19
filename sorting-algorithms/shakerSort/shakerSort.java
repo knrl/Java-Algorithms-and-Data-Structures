@@ -30,6 +30,7 @@ class shakerSort{
 			}
 			if (check) break;
 		}
+		return arr;
 	}
 
 	static void print (int [] arr){
