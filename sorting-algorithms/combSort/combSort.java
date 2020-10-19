@@ -18,6 +18,7 @@ class bubbleSort
 					arr[k+i] = temp;
 				}
 		}
+		return arr;
 	}
 
 	static void print (int [] arr){
