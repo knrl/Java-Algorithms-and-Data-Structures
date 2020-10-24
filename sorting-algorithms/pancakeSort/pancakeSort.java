@@ -5,7 +5,7 @@ class pancakeSort
 		int sizeofArr = arr.length;
 		int [] sortedArr = new int [sizeofArr];
 		sortedArr = pancakeSort(arr, sizeofArr);
-		print(sortedArr);
+		System.out.print(sortedArr);
 	}
 
 	static int [] pancakeSort(int [] arr, int sizeofArr){
