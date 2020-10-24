@@ -5,7 +5,7 @@
 ### Basic Problems in Cpp
 | Problem | Solution |
 | :------------ | :----------: |
-| Bubble Sort | [bubbleSort.java](bubbleSort.java)|
+| Bubble Sort | [bubbleSort.javssa](bubbleSort.java)|
 | Comb Sort | [combSort.java](combSort.java)|
 | Gnome Sort | [gnomeSort.java](gnomeSort.java)|
 | Insertion Sort | [insertionSort.java](insertionSort.java)|
