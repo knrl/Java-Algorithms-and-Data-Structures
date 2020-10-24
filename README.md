@@ -6,12 +6,12 @@
 | Problem | Solution |
 | :------------ | :----------: |
 | Bubble Sort | [bubbleSort.java](sorting-algorithms/bubbleSort/bubbleSort.java)|
-| Comb Sort | [combSort.java](combSort.java)|
-| Gnome Sort | [gnomeSort.java](gnomeSort.java)|
-| Insertion Sort | [insertionSort.java](insertionSort.java)|
-| Odd Even Sort | [oddEvenSort.java](oddEvenSort.java)|
-| Pancake Sort | [pancakeSort.java](pancakeSort.java)|
-| Random Sort | [randomSort.java](randomSort.java)| 
-| Selection Sort| [selectionSort.java](selectionSort.java)| 
-| Shaker Sort | [shakerSort.java](shakerSort.java)| 
-| Shell Sort | [shellSort.java](shellSort.java)| 
+| Comb Sort | [combSort.java](sorting-algorithms/combSort/combSort.java)|
+| Gnome Sort | [gnomeSort.java](sorting-algorithms/gnomeSort/gnomeSort.java)|
+| Insertion Sort | [insertionSort.java](sorting-algorithms/insertionSort/insertionSort.java)|
+| Odd Even Sort | [oddEvenSort.java](sorting-algorithms/oddEvenSort/oddEvenSort.java)|
+| Pancake Sort | [pancakeSort.java](sorting-algorithms/pancakeSort/pancakeSort.java)|
+| Random Sort | [randomSort.java](sorting-algorithms/randomSort/randomSort.java)| 
+| Selection Sort| [selectionSort.java](sorting-algorithms/selectionSort/selectionSort.java)| 
+| Shaker Sort | [shakerSort.java](sorting-algorithms/shakerSort/shakerSort.java)| 
+| Shell Sort | [shellSort.java](sorting-algorithms/shellSort/shellSort.java)| 
