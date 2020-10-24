@@ -1,8 +1,7 @@
 # Java-Algorithms-and-Data-Structures
 
-# Basic-Problems
 
-### Basic Problems in Cpp
+### Problem's links
 | Problem | Solution |
 | :------------ | :----------: |
 | Bubble Sort | [bubbleSort.java](sorting-algorithms/bubbleSort/bubbleSort.java)|
@@ -15,3 +14,4 @@
 | Selection Sort| [selectionSort.java](sorting-algorithms/selectionSort/selectionSort.java)| 
 | Shaker Sort | [shakerSort.java](sorting-algorithms/shakerSort/shakerSort.java)| 
 | Shell Sort | [shellSort.java](sorting-algorithms/shellSort/shellSort.java)| 
+| Quick Sort | [quickSort.java](sorting-algorithms/quickSort/quickSort.java)| 
