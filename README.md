@@ -20,7 +20,9 @@
 | Bucket Sort | [bucketSort.java](sorting-algorithms/bucketSort/bucketSort.java)| 
 | Stooge Sort | [stoogeSort.java](sorting-algorithms/stoogeSort/stoogeSort.java)| 
 | Heap Sort | [heapSort.java](sorting-algorithms/heapSort/heapSort.java)| 
-
+| Alphabetically sorting the letters of the word entered on the keyboard | [extraProblem1.java](sorting-algorithms/extraProblem1/extraProblem1.java)| 
+| Alphabetically the largest and smallest letters in the word entered on the keyboard | [extraProblem2.java](sorting-algorithms/extraProblem2/extraProblem2.java)| 
+| Median and mode of randomly generated sequence | [extraProblem3.java](sorting-algorithms/extraProblem3/extraProblem3.java)| 
 
 ### Searching Algorithms
 | Problem | Solution |
