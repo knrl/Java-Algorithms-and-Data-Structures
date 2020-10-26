@@ -27,3 +27,7 @@
 ### Searching Algorithms
 | Problem | Solution |
 | :------------ | :----------: |
+| Linear Search | [linearSearch.java](searching-algorithms/linearSearch/linearSearch.java)|
+| Jump Search | [jumpSearch.java](searching-algorithms/jumpSearch/jumpSearch.java)|
+| Binary Search | [binarySearch.java](searching-algorithms/binarySearch/binarySearch.java)|
+| Interpolation Search | [interpolationSearch.java](searching-algorithms/interpolationSearch/interpolationSearch.java)|
