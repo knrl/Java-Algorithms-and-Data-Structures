@@ -1,7 +1,7 @@
 # Java-Algorithms-and-Data-Structures
 
 
-### Problem's links
+### Sorting Algorithms
 | Problem | Solution |
 | :------------ | :----------: |
 | Bubble Sort | [bubbleSort.java](sorting-algorithms/bubbleSort/bubbleSort.java)|
@@ -20,3 +20,8 @@
 | Bucket Sort | [bucketSort.java](sorting-algorithms/bucketSort/bucketSort.java)| 
 | Stooge Sort | [stoogeSort.java](sorting-algorithms/stoogeSort/stoogeSort.java)| 
 | Heap Sort | [heapSort.java](sorting-algorithms/heapSort/heapSort.java)| 
+
+
+### Searching Algorithms
+| Problem | Solution |
+| :------------ | :----------: |
