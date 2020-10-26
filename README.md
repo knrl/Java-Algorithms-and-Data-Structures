@@ -15,3 +15,7 @@
 | Shaker Sort | [shakerSort.java](sorting-algorithms/shakerSort/shakerSort.java)| 
 | Shell Sort | [shellSort.java](sorting-algorithms/shellSort/shellSort.java)| 
 | Quick Sort | [quickSort.java](sorting-algorithms/quickSort/quickSort.java)| 
+| Counting Sort | [countingSort.java](sorting-algorithms/countingSort/countingSort.java)| 
+| Radix Sort | [radixSort.java](sorting-algorithms/radixSort/radixSort.java)| 
+| Bucket Sort | [bucketSort.java](sorting-algorithms/bucketSort/bucketSort.java)| 
+| Stooge Sort | [stoogeSort.java](sorting-algorithms/stoogeSort/stoogeSort.java)| 
