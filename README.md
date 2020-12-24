@@ -12,6 +12,7 @@
 | Pancake Sort | [pancakeSort.java](sorting-algorithms/pancakeSort/pancakeSort.java)|
 | Random Sort | [randomSort.java](sorting-algorithms/randomSort/randomSort.java)| 
 | Selection Sort| [selectionSort.java](sorting-algorithms/selectionSort/selectionSort.java)| 
+| Recursive Selection Sort| [recursiveSelectionSort.java](sorting-algorithms/selectionSort/recursiveSelectionSort.java)| 
 | Shaker Sort | [shakerSort.java](sorting-algorithms/shakerSort/shakerSort.java)| 
 | Shell Sort | [shellSort.java](sorting-algorithms/shellSort/shellSort.java)| 
 | Quick Sort | [quickSort.java](sorting-algorithms/quickSort/quickSort.java)| 
@@ -30,4 +31,5 @@
 | Linear Search | [linearSearch.java](searching-algorithms/linearSearch/linearSearch.java)|
 | Jump Search | [jumpSearch.java](searching-algorithms/jumpSearch/jumpSearch.java)|
 | Binary Search | [binarySearch.java](searching-algorithms/binarySearch/binarySearch.java)|
+| Recursive Binary Search | [recursiveBinarySearch.java](searching-algorithms/recursiveBinarySearch/recursiveBinarySearch.java)|
 | Interpolation Search | [interpolationSearch.java](searching-algorithms/interpolationSearch/interpolationSearch.java)|
