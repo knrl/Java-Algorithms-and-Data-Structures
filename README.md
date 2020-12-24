@@ -12,7 +12,7 @@
 | Pancake Sort | [pancakeSort.java](sorting-algorithms/pancakeSort/pancakeSort.java)|
 | Random Sort | [randomSort.java](sorting-algorithms/randomSort/randomSort.java)| 
 | Selection Sort| [selectionSort.java](sorting-algorithms/selectionSort/selectionSort.java)| 
-| Recursive Selection Sort| [recursiveSelectionSort.java](sorting-algorithms/selectionSort/recursiveSelectionSort.java)| 
+| Recursive Selection Sort| [recursiveSelectionSort.java](sorting-algorithms/recursiveSelectionSort/recursiveSelectionSort.java)| 
 | Shaker Sort | [shakerSort.java](sorting-algorithms/shakerSort/shakerSort.java)| 
 | Shell Sort | [shellSort.java](sorting-algorithms/shellSort/shellSort.java)| 
 | Quick Sort | [quickSort.java](sorting-algorithms/quickSort/quickSort.java)| 
