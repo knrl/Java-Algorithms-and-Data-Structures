@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
-class binarySearch{
+class interpolationSearch{
 	public static void main(String [] args){
 		Scanner scan = new Scanner(System.in);
 		int [] arr = {1, 5, 2, 4, 1, 2, 5, 9, 7, 0, 3};
